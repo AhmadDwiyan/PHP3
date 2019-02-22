@@ -1,0 +1,59 @@
+body{
+	font-family: sans-serif;
+	background-image: url("awan.jpg");
+}
+
+h1{
+	text-align: center;
+	font-family: algerian;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+	font-family: mistral;
+	font-size: 35px;
+}
+
+.kotak_login{
+	width: 350px;
+	background:linear-gradient(pink, cyan);
+	border-style: dotted; border-width: 4px; border-color: yellow;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+label{
+	font-size: 15pt;
+	font-family: mistral;
+}
+
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	border-style: double; border-width: 4px; border-color: linear-gradient(to right cyan, pink);
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: linear-gradient(white, grey, white);
+	color: black;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.link{
+	color: black;
+	text-decoration: none;
+	font-size: 10pt;
+}
