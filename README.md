@@ -11,3 +11,6 @@ Hasil Latihan 5
 ![alt text](https://github.com/Nesta2002/PHP3/blob/master/Screenshot%20(224).png)
 Hasil Latihan 6
 ![alt text](https://github.com/Nesta2002/PHP3/blob/master/Screenshot%20(225).png)
+Hasil Tugas
+![alt text](https://github.com/Nesta2002/PHP3/blob/master/Screenshot%20(226).png)
+![alt text](https://github.com/Nesta2002/PHP3/blob/master/Screenshot%20(227).png)
